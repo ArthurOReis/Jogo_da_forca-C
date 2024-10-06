@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "": "",
+        "*.java": "django-html",
+        "*.ts": "typescript",
+        "string.h": "c"
+    }
+}
